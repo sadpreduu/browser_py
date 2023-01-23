@@ -1,2 +1,4 @@
-# browser_py
- Web-browser in python 
+# SAD BROWSER
+  Web-browser in python 
+
+This application is a python app that uses 
